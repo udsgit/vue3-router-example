@@ -24,9 +24,7 @@ It started as part of a @escuelavue course on Vue 2 and Vue Router, but I ended 
 
 ## **Demo**
 
-You can try it using the [Demo](https://udsgit.github.io/phaser3-tutorial-game/)
-
-> <img src="public/assets/readme/demo.gif" width="300"/><br><i>Demo</i>
+You can try it using the [Demo](naughty-davinci-cb5c7c.netlify.app/)
 
 ## **Screenshots**
 
