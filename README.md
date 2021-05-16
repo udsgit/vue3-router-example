@@ -30,7 +30,9 @@ You can try it using the [Demo](https://udsgit.github.io/phaser3-tutorial-game/)
 
 ## **Screenshots**
 
-> <img src="public/assets/readme/game.png" width="300"/><br><i>Game screen</i>
+> <img src="images_repo/index.jpg" width="300"/><br><i>Index</i>
+
+> <img src="images_repo/dinamic.jpg" width="300"/><br><i>Dynamic route</i>
 
 ## **Technologies**
 
