@@ -63,7 +63,7 @@ npm run serve
 
 ## **Usage**
 
-1. Open the link from the [Demo](https://udsgit.github.io/phaser3-tutorial-game/) or execute the serve with the steps above.
+1. Open the link from the [Demo](naughty-davinci-cb5c7c.netlify.app/) or execute the serve with the steps above.
 2. You can access 2 static routes (Legal and Contact), and the dynamic route that each user is.
 
 ## **Status**
