@@ -24,7 +24,7 @@ It started as part of a @escuelavue course on Vue 2 and Vue Router, but I ended 
 
 ## **Demo**
 
-You can try it using the [Demo](naughty-davinci-cb5c7c.netlify.app/)
+You can try it using the [Demo](https://vue-router-class.netlify.app/)
 
 ## **Screenshots**
 
@@ -63,7 +63,7 @@ npm run serve
 
 ## **Usage**
 
-1. Open the link from the [Demo](naughty-davinci-cb5c7c.netlify.app/) or execute the serve with the steps above.
+1. Open the link from the [Demo](https://vue-router-class.netlify.app/) or execute the serve with the steps above.
 2. You can access 2 static routes (Legal and Contact), and the dynamic route that each user is.
 
 ## **Status**
