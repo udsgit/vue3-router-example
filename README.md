@@ -46,7 +46,7 @@ It does not have much complication, the usual flow, download the repository, ins
 1. Clone/Download the repository.
 
 ```console
-git clone https://github.com/udsgit/phaser3-tutorial-game.git
+git clone https://github.com/udsgit/vue3-router-example
 ```
 
 2. You may have to install the packages with **NPM**.
